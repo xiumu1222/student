@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--react.js 、react-dom.js 和 Browser.js ，它们必须首先加载。
+    其中，react.js 是 React 的核心库，
+    react-dom.js 是提供与 DOM 相关的功能，
+    Browser.js 的作用是将 JSX 语法转为 JavaScript 语法，这一步很消耗时间，实际上线的时候，应该将它放到服务器完成。-->
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="build/react.js"></script>
+    <script type="text/javascript" src="build/react-dom.js"></script>
+    <script type="text/javascript" src="build/browser.min.js"></script>
+    <title>reactDemo01</title>
+</head>
+<body>
+<div id="demo1"></div>
+
+<!--最后一个 <script> 标签的 type 属性为 text/babel 。这是因为 React 独有的 JSX 语法，跟 JavaScript 不兼容。凡是使用 JSX 的地方，都要加上 type="text/babel"-->
+<script type="text/babel">
+    ReactDOM.render(<h1>Hello,World</h1>,document.getElementById('demo1'));
+
+
+</script>
+</body>
+</html>

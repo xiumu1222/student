@@ -9,6 +9,10 @@ http://www.ruanyifeng.com/blog/2015/03/react.html
 
 http://www.runoob.com/react/react-jsx.html
 
+https://github.com/lewis617/react-redux-tutorial
+
+https://github.com/okoala/react-redux-antd
+
 //npm自身版本更新
 npm -g install npm@2.9.1
 
