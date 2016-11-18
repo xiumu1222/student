@@ -13,8 +13,12 @@ https://github.com/lewis617/react-redux-tutorial
 
 https://github.com/okoala/react-redux-antd
 
+https://segmentfault.com/a/1190000004236064?utm_source=Weibo  redux学习
+
 //npm自身版本更新
 npm -g install npm@2.9.1
 
 脚手架工具
 dva-cli
+
+
