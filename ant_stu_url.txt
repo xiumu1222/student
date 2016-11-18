@@ -4,3 +4,13 @@ https://ant.design/
 https://doc.open.alipay.com/docs/doc.htm?spm=a219a.7629140.0.0.20kVgn&treeId=193&articleId=105272&docType=1
 
 https://www.cloud.alipay.com/docs/content/132/guide-providers
+
+http://www.ruanyifeng.com/blog/2015/03/react.html
+
+http://www.runoob.com/react/react-jsx.html
+
+//npm自身版本更新
+npm -g install npm@2.9.1
+
+脚手架工具
+dva-cli
