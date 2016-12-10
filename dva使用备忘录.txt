@@ -1,0 +1,2 @@
+1.不在同一个文件中使用models要带namespace
+2.新建完moudle不要忘记在app.use中加载models

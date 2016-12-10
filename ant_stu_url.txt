@@ -15,6 +15,8 @@ https://github.com/okoala/react-redux-antd
 
 https://segmentfault.com/a/1190000004236064?utm_source=Weibo  redux学习
 
+https://github.com/dvajs/dva-docs/blob/master/v1/zh-cn/tutorial/01-%E6%A6%82%E8%A6%81.md
+
 //npm自身版本更新
 npm -g install npm@2.9.1
 
